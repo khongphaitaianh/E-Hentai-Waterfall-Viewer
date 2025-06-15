@@ -26,11 +26,11 @@
 ## 📦 安装指南
 
 1. **安装脚本管理器**
-    需先安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)（推荐）或 Violentmonkey
+    需先安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)（推荐）
 2. **安装脚本**
     点击下方链接安装（脚本管理器会弹出确认窗口）：
     
-    ➡️ [点击此处安装](https://YOUR_SCRIPT_INSTALL_LINK_HERE) ⬅️
+    ➡️ [点击此处安装][https://YOUR_SCRIPT_INSTALL_LINK_HERE](https://github.com/khongphaitaianh/E-Hentai-Waterfall-Viewer/raw/refs/heads/main/E-Hentai-ExHentai%20Waterfall%20Viewer.user.js) ⬅️
 
 ## 🛠️ 使用说明
 
