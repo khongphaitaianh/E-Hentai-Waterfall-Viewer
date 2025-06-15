@@ -57,7 +57,7 @@ On any gallery page (e.g. `https://e-hentai.org/g/xxxx/yyyyyy/`), the control pa
 ## 🤝 Contributing
 
 Ways to contribute:
-- Report issues: [Issue Tracker](https://github.com/your-repo/issues)
+- Report issues: [Issue Tracker](https://github.com/khongphaitaianh/E-Hentai-Waterfall-Viewer/issues)
 - Submit PRs
 - Improve translations
 
