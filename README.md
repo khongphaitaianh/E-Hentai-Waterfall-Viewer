@@ -26,12 +26,12 @@
 ## 📦 Installation
 
 1.  **Install UserScript Manager**  
-    Requires [Tampermonkey](https://www.tampermonkey.net/) or compatible
+    Requires [Tampermonkey](https://www.tampermonkey.net/) 
 
 2.  **Install Script**  
     Click below (manager will prompt confirmation):
 
-    ➡️ [Install Now](https://YOUR_SCRIPT_INSTALL_LINK_HERE) ⬅️
+    ➡️ [Install Now](https://github.com/khongphaitaianh/E-Hentai-Waterfall-Viewer/raw/refs/heads/main/E-Hentai-ExHentai%20Waterfall%20Viewer.user.js) ⬅️
 
 ## 🛠️ Usage
 
