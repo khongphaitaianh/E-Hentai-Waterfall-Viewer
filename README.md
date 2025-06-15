@@ -1,5 +1,7 @@
 # E-Hentai/ExHentai Waterfall Viewer
 
+**English** | [ **简体中文** ](./README_zh-CN.md)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-JavaScript-yellow.svg) ![Compatible](https://img.shields.io/badge/compatible-Tampermonkey-brightgreen.svg)
 
 > High-performance UserScript for seamless gallery browsing
@@ -35,7 +37,7 @@
 
 On any gallery page (e.g. `https://e-hentai.org/g/xxxx/yyyyyy/`), the control panel appears **below** the thumbnail section.
 
-![Screenshot](https://YOUR_SCREENSHOT_LINK_HERE)
+![Screenshot](https://github.com/khongphaitaianh/E-Hentai-Waterfall-Viewer/blob/main/Pic/image.png)
 
 1.  **Basic Controls**:
     - Range: Set start/end positions
